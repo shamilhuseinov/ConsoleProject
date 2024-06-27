@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\Core.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\project.assets.json" />
+    <None Include="obj\Core.csproj.nuget.dgspec.json" />
+    <None Include="obj\Core.csproj.nuget.g.props" />
+    <None Include="obj\Debug\net7.0\Core.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net7.0\Core.csproj.FileListAbsolute.txt" />
+    <None Include="obj\Debug\net7.0\Core.assets.cache" />
+    <None Include="obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net7.0\Core.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="obj\Debug\net7.0\Core.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net7.0\Core.AssemblyInfo.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{71070015-9EE9-4780-B938-534793DEAF7D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/samil/Desktop/ConsoleProject/Data2/Repository/Concrete/ProductRepository.cs" relfile="Data2/Repository/Concrete/ProductRepository.cs" line="12" column="1" />
+      <Breakpoint file="/Users/samil/Desktop/ConsoleProject/Presentation/Services/SupplierService.cs" relfile="Presentation/Services/SupplierService.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data2/Contents/DbContent.cs">
+    <Files>
+      <File FileName="Presentation/Services/SupplierService.cs" />
+      <File FileName="Data2/Repository/Concrete/SupplierRepository.cs" />
+      <File FileName="Data2/Contents/DbContent.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleProject" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="Constants" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+            </Node>
+            <Node name="Data" expanded="True">
+              <Node name="Contents" expanded="True">
+                <Node name="DbContent.cs" selected="True" />
+              </Node>
+              <Node name="Repository" expanded="True">
+                <Node name="Concrete" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Presentation PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

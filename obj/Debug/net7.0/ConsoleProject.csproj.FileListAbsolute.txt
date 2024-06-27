@@ -1,0 +1,5 @@
+/Users/samil/Desktop/ConsoleProject/obj/Debug/net7.0/ConsoleProject.csproj.AssemblyReference.cache
+/Users/samil/Desktop/ConsoleProject/obj/Debug/net7.0/ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Desktop/ConsoleProject/obj/Debug/net7.0/ConsoleProject.AssemblyInfoInputs.cache
+/Users/samil/Desktop/ConsoleProject/obj/Debug/net7.0/ConsoleProject.AssemblyInfo.cs
+/Users/samil/Desktop/ConsoleProject/obj/Debug/net7.0/ConsoleProject.csproj.CoreCompileInputs.cache

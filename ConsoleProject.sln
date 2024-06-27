@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{71070015-9EE9-4780-B938-534793DEAF7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core2\Core.csproj", "{6513E496-BEDE-4CE6-9174-152B92D0183B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data2\Data.csproj", "{E7CEA271-CDCF-43E6-A060-E74ADAFF62DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71070015-9EE9-4780-B938-534793DEAF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71070015-9EE9-4780-B938-534793DEAF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71070015-9EE9-4780-B938-534793DEAF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71070015-9EE9-4780-B938-534793DEAF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6513E496-BEDE-4CE6-9174-152B92D0183B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6513E496-BEDE-4CE6-9174-152B92D0183B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6513E496-BEDE-4CE6-9174-152B92D0183B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6513E496-BEDE-4CE6-9174-152B92D0183B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CEA271-CDCF-43E6-A060-E74ADAFF62DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CEA271-CDCF-43E6-A060-E74ADAFF62DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CEA271-CDCF-43E6-A060-E74ADAFF62DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CEA271-CDCF-43E6-A060-E74ADAFF62DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98486240-A7B7-4289-BBCF-43F96158020B}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		outputpath = Presentation
+	EndGlobalSection
+EndGlobal
